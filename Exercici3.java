@@ -1,4 +1,4 @@
-public class Exercici2 {
+public class Exercici3 {
     public static void main(String[] args){
         int[] a = new int[6];
         int[] b = new int[a.length];
